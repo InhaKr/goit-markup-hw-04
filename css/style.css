@@ -111,7 +111,6 @@
   max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
-  outline: 1px solid red;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -261,6 +260,7 @@ img {
   justify-content: center;
   border: none;
   border-radius: 50%;
+  color: #AFB1B8
 }
 
 .team-link:hover,
@@ -303,6 +303,7 @@ img {
   justify-content: center;
   border: 1px solid #AFB1B8;
   border-radius: 4%;
+  color: #AFB1B8
 }
 
 .clients-link:hover,
